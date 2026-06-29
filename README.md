@@ -21,7 +21,7 @@ This project demonstrates a highly available and fault-tolerant e-commerce archi
 ## Screenshots
 
 ### VPC
-![VPC](01-vpc.png)
+![VPC](screenshots)(01-vpc.png)
 
 ### Subnets
 ![Subnets](02-subnets.png)
