@@ -24,28 +24,28 @@ This project demonstrates a highly available and fault-tolerant e-commerce archi
 ![VPC](screenshots/01-vpc.png)
 
 ### Subnets
-![Subnets](02-subnets.png)
+![Subnets](screenshots/02-subnets.png)
 
 ### Security Groups
-![SG](03-security-groups.png)
+![SG](screenshots/03-security-groups.png)
 
 ### EC2
-![EC2](04-ec2.png)
+![EC2](screenshots/04-ec2.png)
 
 ### Load Balancer
-![ALB](05-alb.png)
+![ALB](screenshots/05-alb.png)
 
 ### Target Group
-![TG](06-target-group.png)
+![TG](screenshots/06-target-group.png)
 
 ### RDS
-![RDS](07-rds.png)
+![RDS](screenshots/07-rds.png)
 
 ### App Running
-![App](08-app-working.png)
+![App](screenshots/08-app-working.png)
 
 ### RDS SG
-![RDS SG](09-rds-sg.png)
+![RDS SG](screenshots/09-rds-sg.png)
 
 ## Result
 Application is accessible through Load Balancer and database is secured in private subnet.
